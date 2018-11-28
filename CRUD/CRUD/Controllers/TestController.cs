@@ -11,6 +11,7 @@ namespace CRUD.Controllers
         // GET: Test
         public ActionResult Index()
         {
+            string data = "";
             return View();
         }
 
