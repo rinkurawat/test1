@@ -12,6 +12,7 @@ namespace CRUD.Controllers
         public ActionResult Index()
         {
             string data = "";
+            string data1 = "";
             return View();
         }
 
